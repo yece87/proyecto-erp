@@ -1,4 +1,4 @@
-#%%writefile erp_streamlit.py
+e#%%writefile erp_streamlit.py
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -20,8 +20,8 @@ st.write("Bienvenido al sistema ERP para la gestión de clientes, inventarios, f
 st.sidebar.title("ERP_ITM")
 
 # Variables de autenticación
-USER = "Lira"
-PASSWORD = "Lir@1120"
+USER = "yece87"
+PASSWORD = "yecenia1987"
 
 # Inicialización de variables globales
 if "auth" not in st.session_state:
