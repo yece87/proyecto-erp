@@ -6,6 +6,7 @@ import plotly.express as px
 from fpdf import FPDF
 
 logo_path = "https://img.freepik.com/vector-gratis/ilustracion-erp-diseno-plano-dibujado-mano_23-2149365029.jpg"
+
 # Configuración inicial
 st.set_page_config(page_title="Módulos del ERP", layout="wide",page_icon=logo_path)
 # Ruta del archivo de imagen (logo)
@@ -20,7 +21,7 @@ st.write("Bienvenido al sistema ERP para la gestión de clientes, inventarios, f
 st.sidebar.title("ERP_ITM")
 
 # Variables de autenticación
-USER = "Sandra"
+USER = "yece87"
 PASSWORD = "yecenia1987"
 
 # Inicialización de variables globales
