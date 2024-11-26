@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from fpdf import FPDF
 
-logo_path = "https://img.freepik.com/vector-premium/concepto-diseno-logotipo-contabilidad-financiera_761413-6940.jpg?w=740
+logo_path = https://img.freepik.com/vector-premium/concepto-diseno-logotipo-contabilidad-financiera_761413-6940.jpg?w=740
 # Configuración inicial
 st.set_page_config(page_title="Módulos del ERP", layout="wide",page_icon=logo_path)
 # Ruta del archivo de imagen (logo)
