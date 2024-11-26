@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from fpdf import FPDF
 
-logo_path = https://www.crushpixel.com/big-static23/preview4/erp-letter-logo-design-with-6027127.jpg
+logo_path = https://cdn-icons-png.flaticon.com/512/5129/5129557.png
 # Configuración inicial
 st.set_page_config(page_title="Módulos del ERP", layout="wide",page_icon=logo_path)
 # Ruta del archivo de imagen (logo)
